@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # author: luozaibo
-# date : 2019-08-15 20:46:31
 import requests
 from lxml import etree
 import aiohttp
